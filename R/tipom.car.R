@@ -35,7 +35,7 @@ tipom.car <-
                               xlab="Thickness",
                               pch=syms[Freq],
                               cex=cexs[Freq],
-                              ylab="",
+                              ylab="Length or Width",
                               xaxt="n",
                               yaxt="n",
                               frame=FALSE,

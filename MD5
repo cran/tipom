@@ -1,9 +1,10 @@
-74780c99440901002b34e46123ff0488 *DESCRIPTION
+7c7a6e7f89e581b494fbafac05ce30be *DESCRIPTION
+0a71f313b456008a7bba836114bb2471 *DESCRIPTION.orig
 8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
 d8067eda58a893ad62df149a56dc0969 *R/IA.R
 ff2d2dcb6f7b3c8aad740e3bd83ef6e3 *R/IC.R
 6d8a09a6d62094afd24ccb10e4048f6f *R/MS.R
-e6755f5e1125b3d4209a9b8cb2909e83 *R/tipom.car.R
+55d2d97bd82af59d1fed1d52a9a47c17 *R/tipom.car.R
 2bf4ed783992e47203428f1c4f57ad57 *R/tipom.heat.R
 890d71655da50e20f8dd29cea14f0203 *R/tipom.import.R
 59ba542e3504c6ddc0e4303590be93ea *R/tipom.lw.R
@@ -20,4 +21,3 @@ c4f61634cf5fd1c2aeb266d68e942424 *man/D7CAN2.Rd
 b5f545b3612efb899bc20c4e4db06fe9 *man/tipom.heat.Rd
 97d3aa65ccd5f97b86681f55daea7fd5 *man/tipom.import.Rd
 5171960d6d37cff9c356f6def3e7e12e *man/tipom.lw.Rd
-bd55b406a74a17756fc40145e01e9e7a *tipom_1.0.tar.gz
